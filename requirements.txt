@@ -1,5 +1,5 @@
-PyQt5==5.15.9  #Example with version specification
-numpy
-pandas
-matplotlib
-fpdf
+PyQt5==5.15.9  # Or the specific version you're using
+numpy>=1.24.0   # You can use >= if a minor version bump is acceptable
+pandas>=2.0.0
+matplotlib>=3.7.0
+fpdf2>=3.0.0
