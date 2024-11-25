@@ -85,7 +85,7 @@ I welcome contributions to improve the Loan Calculator application! Here's how y
    venv\Scripts\activate  # Activate the virtual environment (Windows)
    ```
 
-4. **Install Dependencies:** Install the required Python packages.  A `requirements.txt` file (if you have one) lists them; otherwise, install the packages manually.
+4. **Install Dependencies:** Install the required Python packages.  A `requirements.txt` file lists them; otherwise, install the packages manually.
 
    ```bash
    pip install -r requirements.txt  # Or install manually if needed
