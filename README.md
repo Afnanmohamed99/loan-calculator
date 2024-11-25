@@ -17,16 +17,7 @@ This Python application provides a graphical user interface (GUI) for calculatin
 * **Multithreading:** Performs the loan calculation in a separate thread to prevent the GUI from freezing.
 
 
-## Requirements
-
-* Python 3.x
-* PyQt5
-* NumPy
-* Pandas
-* Matplotlib
-* fpdf
-* decimal
-
+### Installing Dependencies
 You can install the required libraries using pip:
 
 ```bash
