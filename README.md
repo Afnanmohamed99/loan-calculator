@@ -66,31 +66,31 @@ The following screenshots demonstrate the Loan Calculator application's key feat
 
 **1. Main Window (Initial State):**
 
-![Main Window (Empty)](main_window_initial.png)
+![Main Window (Empty)](images/main_window_initial.png)
 
 This shows the application's main window with input fields for loan details (interest rate, loan term, amount, and currency selection).  The fields include placeholders for guidance.
 
 **2. Main Window (Results):**
 
-![Main Window (Results)](main_window_results.png)
+![Main Window (Results)](images/main_window_results.png)
 
 This screenshot displays the main window after a loan calculation. The calculated monthly and total payments are shown, clearly formatted with the chosen currency symbol. A progress bar indicates 100% completion of the calculation.
 
 **3. Amortization Graph:**
 
-![Amortization Graph](amortization_graph.png)
+![Amortization Graph](images/amortization_graph.png)
 
 This graph visually represents the loan's amortization schedule, showing the principal and interest payments over time.  The graph provides a quick overview of how your loan payments are allocated.
 
 **4. & 5. Amortization Table:**
 
-![Amortization Table](amortization_table.png)  
+![Amortization Table](images/amortization_table.png)  
 
 This detailed table provides a month-by-month breakdown of the loan's amortization.  Each row shows the month, interest rate, payment amount, interest paid, principal paid, and the remaining loan balance.
 
 **6. Save As Dialog:**
 
-![Save As Dialog](save_as_dialog.png)
+![Save As Dialog](images/save_as_dialog.png)
 
 This dialog allows users to choose between saving the amortization schedule as a PDF or CSV file. This provides flexibility for users to utilize the results as they need.
 
